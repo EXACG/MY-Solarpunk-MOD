@@ -11,6 +11,4 @@
 `Room8Fix-src\build.bat`
 
 恢复原状：
-
-1. 把 `Solarpunk\Binaries\Win64\winmm.txt` 改回只保留 `SteamFix64.dll`
-2. 删除 `Solarpunk\Binaries\Win64\Room8Fix.dll`
+ 删除 `Solarpunk\Binaries\Win64\Room8Fix.dll`
