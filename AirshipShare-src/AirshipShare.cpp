@@ -12,7 +12,7 @@
 namespace
 {
 constexpr uintptr_t kGObjectsOffset = 0x076CD920;
-constexpr uintptr_t kGWorldOffset = 0x078CFBB8;
+constexpr uintptr_t kGWorldOffset = 0x078CFCF8;
 constexpr uintptr_t kAppendStringOffset = 0x0122BD08;
 constexpr size_t kProcessEventIndex = 0x4C;
 constexpr uint64_t kClassCastFlag = 0x20;
